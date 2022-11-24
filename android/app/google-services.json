@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "556407331763",
+    "project_id": "guitario-704fd",
+    "storage_bucket": "guitario-704fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556407331763:android:a2bb0b98a895f3ea7e09c6",
+        "android_client_info": {
+          "package_name": "com.example.guitario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556407331763-dqaglbfmibbkc4itmui43nifv0d0cpqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUdnIgW_egogRk_MydDLVPdIJht5sLa34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556407331763-dqaglbfmibbkc4itmui43nifv0d0cpqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
