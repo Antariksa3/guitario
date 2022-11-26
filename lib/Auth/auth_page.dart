@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:guitario/Login/login_page.dart';
-import 'package:guitario/Register/register_page.dart';
+import 'package:guitario/screens/Login/login_page.dart';
+import 'package:guitario/screens/Register/register_page.dart';
 
 class AuthPage extends StatefulWidget {
   const AuthPage({super.key});

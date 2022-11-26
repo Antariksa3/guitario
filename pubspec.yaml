@@ -35,6 +35,8 @@ dependencies:
   shared_preferences:
   firebase_core:
   firebase_auth:
+  flutter_rating_bar:
+  sqflite:
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
@@ -58,6 +60,9 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/images/
+    - assets/images/sales/
+    - assets/images/popular/
+    - assets/images/recommend/
     # - assets/images/logo.png
     # - assets/images/slide_intro_1.png
     # - assets/images/slide1.png

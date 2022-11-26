@@ -2,7 +2,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:guitario/Auth/confirm_page.dart';
-import 'package:guitario/Intro/onboarding_screen.dart';
+import 'package:guitario/screens/Intro/onboarding_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 int introduction = 0;

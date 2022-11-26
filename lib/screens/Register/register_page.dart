@@ -128,7 +128,7 @@ class _RegisterPageState extends State<RegisterPage> {
                 Padding(
                   padding: const EdgeInsets.symmetric(horizontal: 25.0),
                   child: TextField(
-                    // obscureText: true,
+                    obscureText: true,
                     controller: _confirmpasswordController,
                     decoration: InputDecoration(
                       enabledBorder: OutlineInputBorder(
@@ -155,7 +155,7 @@ class _RegisterPageState extends State<RegisterPage> {
                     child: Container(
                       padding: EdgeInsets.all(20),
                       decoration: BoxDecoration(
-                        color: Color(0xFF338C99),
+                        color: Color(0xFF256D85),
                         borderRadius: BorderRadius.circular(12),
                       ),
                       child: Center(
@@ -178,7 +178,7 @@ class _RegisterPageState extends State<RegisterPage> {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Text(
-                      'I have an account',
+                      'I have an account,',
                       style: TextStyle(
                           color: Colors.white, fontWeight: FontWeight.bold),
                     ),

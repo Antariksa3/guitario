@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:guitario/Auth/confirm_page.dart';
-import 'package:guitario/Intro/slider.dart';
+import 'package:guitario/screens/Intro/slider.dart';
 
 class OnBoarding extends StatefulWidget {
   const OnBoarding({super.key});
